@@ -1,4 +1,4 @@
-<h1 align="center">Hola! It's me Anandhu</h1>
+<h1 align="center">Hola!🤗 It's me Anandhu✨</h1>
 <h3 align="center">I'm a first-year BTech CSE student, just dipping my toes into the tech world. Currently, I'm on a mission to conquer front-end web development. One day, I might even make a website that doesn't crash! I'm also super pumped about AI and machine learning. Who knows? Maybe I'll create something that may finally understands my sarcasm.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrax321&label=Profile%20views&color=0e75b6&style=flat" alt="cyrax321" /> </p>
