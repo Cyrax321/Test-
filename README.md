@@ -1,5 +1,5 @@
 <h1 align="center">Hola!🤗 It's me Anandhu✨</h1>
-<h3 align="center">I'm a first-year BTech CSE student, just dipping my toes into the tech world. Currently, I'm on a mission to conquer front-end web development. One day, I might even make a website that doesn't crash! I'm also super pumped about AI and machine learning. Who knows? Maybe I'll create something that may finally understands my sarcasm.</h3>
+<h3 align="center">I'm a first-year BTech CSE student, just dipping my toes into the tech world. Currently, I'm on a mission to conquer front-end web development. One day, I might even make a website that doesn't crash! I'm also super pumped about AI and machine learning. Who knows? Maybe I'll create something that may finally understand my sarcasm.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrax321&label=Profile%20views&color=0e75b6&style=flat" alt="cyrax321" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrax321" alt="cyrax321" /></a> </p>
@@ -66,7 +66,5 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cyrax321&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrax321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrax321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme
+  
